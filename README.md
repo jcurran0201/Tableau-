@@ -1,4 +1,4 @@
-# NYC Bike Data 
+# NYC Bike Data  https://public.tableau.com/app/profile/john.curran/viz/Module14_16528178427100/Story2 
 ## Purpose of the project 
 The purpose of the project was to find out what times and days of the week people were taking out bikes. The project also went into depth about gender and if the people were customers or subscribers 
 ## Results 
